@@ -1,7 +1,29 @@
-# Live_Graduate_Blog
-Site for Hosting Live Blog For RSE Graduate Program , Keeps track of Work Done and Record. 
+
 
 
 
 
 [Click Me ](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki) 📘
+
+
+
+# 🎓 Live_Graduate_Blog
+
+Welcome to my live blog for the **RSE Graduate Program**!  
+Site for Hosting Live Blog For RSE Graduate Program , Keeps track of Work Done and Record. 
+
+This space tracks my journey, projects, and learning milestones as a Graduate Control Systems Engineer.
+
+---
+
+## 📘 Wiki Access  
+🔗 [Click Here to Dive In! 🚀](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki)
+- Function Block Development
+- GitHub Integration
+- Project Documentation
+- Engineering Insights
+
+---
+
+## 🛠️ Technologies
+![TIA Portal](https://img.shields.io/badge/TIA_PortaltHub-for regular updates as I progress through the program!
