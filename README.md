@@ -24,6 +24,3 @@ This space tracks my journey, projects, and learning milestones as a Graduate Co
 - Engineering Insights
 
 ---
-
-## 🛠️ Technologies
-![TIA Portal](https://img.shields.io/badge/TIA_PortaltHub-for regular updates as I progress through the program!
