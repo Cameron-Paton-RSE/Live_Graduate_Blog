@@ -4,4 +4,4 @@ Site for Hosting Live Blog For RSE Graduate Program , Keeps track of Work Done a
 
 
 
-[Click Me ]([https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki/Past-Project-List](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki)) 📘
+[Click Me ](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki) 📘
