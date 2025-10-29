@@ -3,7 +3,6 @@
 
 
 
-[Click Me ](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki) 📘
 
 
 
