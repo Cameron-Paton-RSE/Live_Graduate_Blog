@@ -75,6 +75,11 @@ Navigate through detailed pages using the Wiki:
   <a href="https://new.siemens.com/global/en/products/automation/topic-areas/automation-software/tia-portal.html" target="_blank" rel="noreferrer" title='TIA Portal'><img src="https://th.bing.com/th/id/R.f09de331fea427d365087a1984d36527?rik=5lz7BWiMBq9l6w&riu=http%3a%2f%2fodoo.deftindustrialautomation.com%2fweb%2fimage%2fslide.channel%2f1%2fimage_1024%2fTIA+Portal+V19+Step-by-Step+Download+and+Install%3funique%3d6831e33&ehk=fnxLXnxNOVxfU7x6HjOucSDOPotX3lWnQafpuImbRPo%3d&risl=&pid=ImgRaw&r=0" alt="TIA Portal" width="50" height="50"/>
 </a>
 
+
+<a href="https://new.siemens.com/global/en/products/automation/topic-areas/automation-software/wincc.html" target="_blank" rel="noreferrer" title='WinCC'>
+  <img src="https://www.pngwing.com/en/search?q=SIEMENS+WINCC" alt="WinCC" width="50" height="50"/>
+</a>
+
 </p>
 
 
