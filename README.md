@@ -77,7 +77,7 @@ Navigate through detailed pages using the Wiki:
 
 
 <a href="https://new.siemens.com/global/en/products/automation/topic-areas/automation-software/wincc.html" target="_blank" rel="noreferrer" title='WinCC'>
-  <img src="https://www.pngwing.com/en/search?q=SIEMENS+WINCC" alt="WinCC" width="50" height="50"/>
+  <img src="https://portalimages.blob.core.windows.net/products/images/np9955.jpg" alt="WinCC" width="50" height="50"/>
 </a>
 
 </p>
