@@ -49,7 +49,7 @@ Navigate through detailed pages using the Wiki:
 
 ---
 
-![Ross Shire Engineering](https://www.ross-eng.com/)
+![Ross Shire Engineering](https://www.ross-eng.com)
 
 ---
 
