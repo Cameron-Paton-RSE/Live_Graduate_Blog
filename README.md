@@ -61,4 +61,20 @@ Navigate through detailed pages using the Wiki:
 <p>&nbsp;<img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Cameron-Paton-RSE&show_icons=true&locale=en&rank_icon=github" alt="Cameron-Paton-RSE" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Cameron-Paton-RSE&" alt="Cameron-Paton-RSE" /></p>
 
+---
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Engineering & Automation -->
+  <a href="#" titlettps://upload.wikimedia.org/wikipedia/6f/Siemens_logo.svg
+  </a>
+  #
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="WinCC" width="50" height="50media.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="WinCC Unified" width="50" height="50https://www.python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"rg/htmlg src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width=".w3schools.com/css/" target="_blank" title="CSScontent.com/devcon/master/icons/css3/css3-original-wordmark.svg
+  </a>
+  <a href="#" title="Ls://upload.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="Ladder Logic" width="50" heightia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="STL" width="50"//upload.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="SCL" width="50"//upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markup" width="50"
+  <a href="https://git-scm.com/" target="_blankw.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" heightcom/"src="https://upload.wikimedia.org/wikipedia/commons/e/e0/GitHub_Desktop_Logo.png" alt="Gituctivity Tools -->
 
