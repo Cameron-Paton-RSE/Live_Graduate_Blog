@@ -70,6 +70,11 @@ Navigate through detailed pages using the Wiki:
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title='CSS'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> 
+
+
+  <a href="https://new.siemens.com/global/en/products/automation/topic-areas/automation-software/tia-portal.html" target="_blank" rel="noreferrer" title='TIA Portal'><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Siemens-logo.svg" alt="TIA Portal" width="50" height="50"/>
+</a>
+
 </p>
 
 
