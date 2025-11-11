@@ -84,7 +84,7 @@ Navigate through detailed pages using the Wiki:
   <a href="https://material.angular.io/" target="_blank" rel="noreferrer" title='Angular Material UI'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1741368751/GitHub/Material_UI_hrody6.png" alt="Angular Material UI" width="50" height="50"/> </a>
 <!-- <a href="https://nodemon.io" target="_blank" rel="noreferrer" title='nodemon'> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="45" height="50"/> </a> -->
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer" title='Firebase'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729774197/GitHub/firebase.png" alt="nodemon" width="50" height="50"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="https://up load.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> 
@@ -100,5 +100,16 @@ Navigate through detailed pages using the Wiki:
   </a>   -->
 </p>
 
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="busercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height/" target="_blank" rel="noreferrer"t.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height.com/css/" target="_blank" rel="noreferrernt.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50"//upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markup" widthols -->
+  #
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="TIA Portal" width="50" height="50.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="WinCC" width="50" height="kimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="WinCC Unified" width="50"ikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="Ladder Logic" width="50.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="STL" width="50" heightd.wikimedia.org/wikipedia/commons/6/6f/Siemens_logo.svg" alt="SCL" width="50"-->
+  <a href="httpsm.com/
 
 
