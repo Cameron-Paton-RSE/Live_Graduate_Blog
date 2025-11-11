@@ -3,6 +3,7 @@
 
 Welcome to my **Live Graduate Blog** — a dynamic space documenting my journey through the **RSE Graduate Program** as a Control Systems Engineer.
 
+
 🚀 This blog is more than just a record — it's a growing knowledge base, a technical showcase, and a reflection of my learning, development, and engineering experiences.
 
 
@@ -36,9 +37,14 @@ Navigate through detailed pages using the Wiki:
 
 
 🔗 [Click Here to Dive In! 🚀](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki)
-Electronics & Electrical Engineering @ University of Glasgow
-Mechatronics & Automation @ University of Strathclyde 
+
+
+🔌⚡Electronics & Electrical Engineering @ University of Glasgow
+
+🤖⚙️ Mechatronics & Automation @ University of Strathclyde 
+
 🛠️ Graduate Control Systems Engineer @ RSE  
+
 📍 Based in Glasgow | Former bartender | Full Time Rat enthusiast
 
 ---
