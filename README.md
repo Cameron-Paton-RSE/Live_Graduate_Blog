@@ -48,12 +48,12 @@ Mechatronics & Automation @ University of Strathclyde
 ---
 
 
-##<img src="./assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
+##My Stats :
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cameron-Paton-RSE&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
 <p><img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=PCameron-Paton-RSE&show_icons=true&locale=en&layout=compact" alt="Cameron-Paton-RSE" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Cameron-Paton-RSE&show_icons=true&locale=en&rank_icon=github" alt="pCameron-Paton-RSE" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=Cameron-Paton-RSE&show_icons=true&locale=en&rank_icon=github" alt="Cameron-Paton-RSE" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Cameron-Paton-RSE&" alt="Cameron-Paton-RSE" /></p>
 
 
