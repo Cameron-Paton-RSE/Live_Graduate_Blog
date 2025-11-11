@@ -1,25 +1,51 @@
 
+# 🎓 Cameron's Graduate Blog @ RSE
+
+Welcome to my **Live Graduate Blog** — a dynamic space documenting my journey through the **RSE Graduate Program** as a Control Systems Engineer.
+
+🚀 This blog is more than just a record — it's a growing knowledge base, a technical showcase, and a reflection of my learning, development, and engineering experiences.
 
 
-
-
-
-
-
-# 🎓 Live_Graduate_Blog
-
-Welcome to my live blog for the **RSE Graduate Program**!  
-Site for Hosting Live Blog For RSE Graduate Program , Keeps track of Work Done and Record. 
 
 This space tracks my journey, projects, and learning milestones as a Graduate Control Systems Engineer.
 
 ---
 
-## 📘 Wiki Access  
-🔗 [Click Here to Dive In! 🚀](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki)
-- Function Block Development
-- GitHub Integration
-- Project Documentation
-- Engineering Insights
+## 🧠 What You'll Find Here
+
+📘 **Engineering Projects**  
+From PLC programming to HMI design, explore real-world applications and solutions.
+
+🛠️ **Function Block Development**  
+Custom Siemens TIA Portal blocks for Bürkert pump control, diagnostics, and automation.
+
+🔗 **GitHub Integration**  
+Version control workflows, VCI setup, and collaborative engineering practices.
+
+📚 **Training & Learning Logs**  
+Insights from structured training, hands-on site visits, and lifecycle documentation.
+
+🐀 **Bonus Content**  
+Yes, there are rat pictures. Because engineering needs a little chaos too.
 
 ---
+
+## 📚 Explore the Wiki
+
+Navigate through detailed pages using the Wiki:
+
+
+🔗 [Click Here to Dive In! 🚀](https://github.com/Cameron-Paton-RSE/Live_Graduate_Blog/wiki)
+Electronics & Electrical Engineering @ University of Glasgow
+Mechatronics & Automation @ University of Strathclyde 
+🛠️ Graduate Control Systems Engineer @ RSE  
+📍 Based in Glasgow | Former bartender | Full Time Rat enthusiast
+
+---
+
+![Ross Shire Engineering](https://www.ross-eng.com/wp-content/uploads/202t's documenting the journey.”_
+
+---
+
+
+
